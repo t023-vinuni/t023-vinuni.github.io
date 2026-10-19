@@ -297,6 +297,7 @@ export const SLIDES_HOP_HUONG = [
   // --- S14: Đầu / đuôi xe bằng vận tốc ---
   {
     id: 'dau-duoi',
+    phu_luc: true,
     vat_chinh: 'vd',
     muc: 'Giải pháp · Toán: Xác định đầu và đuôi',
     tieu_de: 'Đầu/đuôi xe bằng vận tốc; xe đứng yên cần người lật',

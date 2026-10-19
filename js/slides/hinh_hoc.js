@@ -127,6 +127,7 @@ export const SLIDES_HINH_HOC = [
   // --- S3: Hệ trục toạ độ và xoay ---
   {
     id: 'he-truc',
+    phu_luc: true,
     vat_chinh: 'ego',
     muc: 'Giải pháp · Toán: Hiệu chuẩn không gian',
     tieu_de: 'Ba hệ toạ độ và phép biến đổi xoay',

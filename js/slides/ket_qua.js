@@ -199,6 +199,7 @@ const t6Tong = KET_QUA.tong && KET_QUA.tong.gt ? KET_QUA.tong.gt['6'] : 82.7;
 
 export const slideKetQuaCanh = {
   id: 'ket-qua-canh',
+  phu_luc: true,
   vat_chinh: 'none',
   muc: 'Tính khả thi · Kết quả: Toàn cảnh',
   tieu_de: `Cả keyframe: V1 ${so(t1Tong, 1)} % → V5 ${so(t5Tong, 1)} % · V6 ${so(t6Tong, 1)} % (khung GT, 289 vật)`,

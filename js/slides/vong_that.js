@@ -199,6 +199,7 @@ const NGUYEN_NHAN_CACH_SUA = {
 // =====================================================================
 export const slideThatV1 = {
   id: 'that-v1',
+  phu_luc: true,
   vat_chinh: 'none',
   muc: 'Giải pháp · V1 · Dữ liệu thật',
   tieu_de: 'V1 trên dữ liệu thật: phân bố lỗi và 4 ca điển hình',

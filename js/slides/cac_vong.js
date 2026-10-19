@@ -623,6 +623,7 @@ const raChung = ctx => {
 function slideVong(k, tieu_de, ml) {
   return {
     id: `vong-${k}`,
+    phu_luc: true,
     vat_chinh: 'vd',
     muc: `Giải pháp · V${k}`,
     tieu_de,

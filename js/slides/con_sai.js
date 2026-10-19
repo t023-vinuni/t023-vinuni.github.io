@@ -79,6 +79,7 @@ const GIAI_THICH_CON_SAI = {
 
 export const slideConSai = {
   id: 'con-sai',
+  phu_luc: true,
   vat_chinh: 'none',
   muc: 'Giải pháp · Vòng cuối: còn sai gì',
   tieu_de: 'Vòng cuối: đạt gì, còn sai gì',
